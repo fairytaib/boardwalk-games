@@ -19,7 +19,14 @@ h1,h2,h3,h4,h5,h6{
     font-family: var(--Macondo);
     color: var(--PrimaryColor);
 }
-
 .sub-heading-color{
     color: var(--HighlightColor)
+}
+
+#navbar{
+    background-color: var(--PrimaryColor);
+}
+
+#logo{
+    width: 30px;
 }
